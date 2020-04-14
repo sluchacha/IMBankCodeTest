@@ -18,6 +18,8 @@ A repo on implementing the following code test questions without using any conve
   - For example, asked to find the value **2** in the **list [1,3,2,0]**, your function should return **2**.
 
 ## Summary on implementation
+- **Programming language used:** *JAVA*
+- **IDE used:** ***ECLIPSE*** using ***JRE 1.8.X***
 - The implementation makes use of **OOP(Object Oriented Programming)**.
 - Convenience libraries have not been used less the implementations would be simple and straight forward.
   - e.g. for binary search of a collection we would have simply used the `Collection.binarySearch` function but this was not used.
